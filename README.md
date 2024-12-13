@@ -90,7 +90,7 @@ lcd.clear();
 ## Librerías
 
 1. LiquidCrystal I2C
-2. DHT22
+2. DHT sensor library for ESPx
 
 ## Conexión
 
